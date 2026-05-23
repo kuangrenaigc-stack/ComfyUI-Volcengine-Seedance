@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-volcengine-seedance"
+description = "ComfyUI nodes for Volcengine Ark Seedance video generation tasks."
+version = "0.1.0"
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.comfy]
+PublisherId = "local-volcengine"
+DisplayName = "Volcengine Seedance"
+Icon = ""
